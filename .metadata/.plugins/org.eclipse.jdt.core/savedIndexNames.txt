@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+/Users/shahd/Desktop/Uni Assignment code/SADI/DiceGameSADI_s3660270/.metadata/.plugins/org.eclipse.jdt.core
+4197981682.index
+2408914033.index
+3113740138.index
+3398154381.index
+3319030321.index
